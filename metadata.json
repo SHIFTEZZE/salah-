@@ -1,0 +1,6 @@
+{
+  "name": "Salah Companion",
+  "description": "A minimalist Islamic companion app designed to help two people stay consistent with their deen together through shared prayer tracking, motivation, and authentic Islamic resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
